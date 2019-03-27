@@ -5,7 +5,7 @@ scrsht to dropbox
 libraries
 
 dropbox-core-sdk-3.0.11 //https://www.dropbox.com/developers/documentation/java
-jackson-core-2.7.4
+<br>jackson-core-2.7.4
 
 token
 
